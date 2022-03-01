@@ -1,2 +1,2 @@
 # bachelor
-My Bachelor's thesis
+My Bachelor's thesis. Nothing special.
